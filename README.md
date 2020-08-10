@@ -21,10 +21,6 @@
   📫 Reach me at <a href='mailto:marius@mariusom.com'>marius@mariusom.com</a>
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/mariusom/mariusom"></a>
-</p>
-
 <!--
 **mariusom/mariusom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
